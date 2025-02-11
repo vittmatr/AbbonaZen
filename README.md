@@ -4,7 +4,7 @@
   <br>
   
   <a href="https://play.google.com/store/apps/details?id=it.matranga.app&hl=it">
-    <img src="https://img.shields.io/badge/Download%20on%20Google%20Play-4285F4?style=for-the-badge&logo=google-play&logoColor=white" alt="Download on Google Play"/>
+    <img src="https://img.shields.io/badge/Download%20on%20Google%20Play-4285F4?style=for-the-badge&logo=google-play&logoColor=white" alt="Download su Google Play"/>
   </a>
 </div>
 
